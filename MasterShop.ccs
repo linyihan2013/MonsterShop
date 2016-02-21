@@ -1,0 +1,510 @@
+<Solution>
+  <PropertyGroup Name="MasterShop" Version="2.1.5.0" Type="CocosStudio" />
+  <SolutionFolder>
+    <Group ctype="ResourceGroup">
+      <RootFolder Name=".">
+        <Project Name="SceneX.csd" Type="Scene" />
+        <Folder Name="ipad">
+          <Image Name="CloseNormal.png" />
+          <Image Name="CloseSelected.png" />
+          <Image Name="HelloWorld.png" />
+          <File Name="ipad" />
+        </Folder>
+        <Folder Name="ipadhd">
+          <Image Name="CloseNormal.png" />
+          <Image Name="CloseSelected.png" />
+          <Image Name="HelloWorld.png" />
+          <File Name="ipadhd" />
+        </Folder>
+        <Folder Name="iphone">
+          <Image Name="CloseNormal.png" />
+          <Image Name="CloseSelected.png" />
+          <Image Name="HelloWorld.png" />
+          <File Name="iphone" />
+        </Folder>
+        <Image Name="HomePage.png" />
+        <Project Name="OpenScene.csd" Type="Scene" />
+        <Image Name="loading.png" />
+        <Project Name="Scene1.csd" Type="Scene" />
+        <Project Name="Scene2.csd" Type="Scene" />
+        <Image Name="about.png" />
+        <Project Name="Scene3.csd" Type="Scene" />
+        <Project Name="Scene1_1.csd" Type="Scene" />
+        <Image Name="AnimationOP.png" />
+        <Image Name="Progress.png" />
+        <Image Name="Panel.png" />
+        <Project Name="Scene.csd" Type="Scene" />
+        <Image Name="Locked.png" />
+        <Image Name="Panel_2.png" />
+        <Image Name="Unlocked.png" />
+        <Image Name="Window.png" />
+        <Image Name="house.png" />
+        <Project Name="Layer1.csd" Type="Layer" />
+        <Image Name="White_bg.png" />
+        <Project Name="Layer2.csd" Type="Layer" />
+        <Image Name="White_bg2.png" />
+        <Project Name="Layer4.csd" Type="Layer" />
+        <Project Name="Layer5.csd" Type="Layer" />
+        <Project Name="Layer6.csd" Type="Layer" />
+        <Project Name="Layer3.csd" Type="Layer" />
+        <Project Name="Layer7.csd" Type="Layer" />
+        <Project Name="Layer8.csd" Type="Layer" />
+        <Image Name="White_bg3.png" />
+        <Image Name="Blank.png" />
+        <Folder Name="UI">
+          <Folder Name="MainScene">
+            <Image Name="Background.png" />
+            <Image Name="Consumer.png" />
+            <Image Name="Book.png" />
+            <Image Name="GroupBuy.png" />
+            <Image Name="Buy.png" />
+            <Image Name="NavigationBar.png" />
+            <Image Name="Level.png" />
+            <Image Name="Experience.png" />
+            <Image Name="Money.png" />
+            <Image Name="BGM.png" />
+            <Image Name="SE.png" />
+            <Image Name="NavigationBar2.png" />
+            <Image Name="BGM2.png" />
+            <Image Name="SE2.png" />
+            <Image Name="Consumer2.png" />
+            <Image Name="Book2.png" />
+            <Image Name="GroupBuy2.png" />
+            <Image Name="Buy2.png" />
+          </Folder>
+          <Folder Name="Unlock">
+            <Image Name="NewConsumer.png" />
+            <Image Name="Unlock.png" />
+            <Image Name="Yes1.png" />
+            <Image Name="Yes2.png" />
+            <Image Name="No1.png" />
+            <Image Name="No2.png" />
+          </Folder>
+          <Folder Name="Dic">
+            <Image Name="bg.png" />
+            <Image Name="Panel.png" />
+          </Folder>
+          <Folder Name="Book">
+            <Image Name="Decide_page.png" />
+            <Image Name="Return.png" />
+            <Image Name="Return1.png" />
+            <Image Name="Yes.png" />
+            <Image Name="No.png" />
+            <Image Name="Decide_page1.png" />
+            <Image Name="No1.png" />
+            <Image Name="Yes1.png" />
+            <Image Name="Close.png" />
+            <Image Name="Close1.png" />
+            <Image Name="bg.png" />
+            <Image Name="Font.png" />
+            <Image Name="MT.png" />
+            <Image Name="Kucun.png" />
+            <Image Name="Decide.png" />
+            <Image Name="Decide1.png" />
+            <Image Name="Decide_page2.png" />
+            <Image Name="plus.png" />
+            <Image Name="subtract.png" />
+          </Folder>
+          <Folder Name="Custome">
+            <Image Name="bg.png" />
+            <Image Name="Close.png" />
+            <Image Name="Close1.png" />
+            <Image Name="bg1.png" />
+            <Image Name="Hunli1.png" />
+            <Image Name="Paiban.png" />
+            <Image Name="Hunli2.png" />
+          </Folder>
+          <Folder Name="Information">
+            <Image Name="More.png" />
+          </Folder>
+          <Folder Name="Upgrade">
+            <Image Name="Upgrade.png" />
+          </Folder>
+          <Folder Name="Inventory">
+            <Image Name="bg.png" />
+            <Image Name="bar.png" />
+            <Image Name="progress.png" />
+            <Image Name="progress1.png" />
+          </Folder>
+          <Folder Name="huodao">
+            <Folder Name="huodaol">
+              <Image Name="huodaol01.png" />
+              <Image Name="huodaol02.png" />
+              <Image Name="huodaol03.png" />
+              <Image Name="huodaol04.png" />
+              <Image Name="huodaol05.png" />
+              <Image Name="huodaol06.png" />
+              <Image Name="huodaol07.png" />
+              <Image Name="huodaol08.png" />
+              <Image Name="huodaol09.png" />
+              <Image Name="huodaol10.png" />
+              <Image Name="huodaol11.png" />
+              <Image Name="huodaol12.png" />
+              <Image Name="huodaol13.png" />
+              <Image Name="huodaol14.png" />
+              <Image Name="huodaol15.png" />
+              <Image Name="huodaol16.png" />
+              <Image Name="huodaol17.png" />
+              <Image Name="huodaol18.png" />
+              <Image Name="huodaol19.png" />
+              <Image Name="huodaol20.png" />
+              <Image Name="huodaol21.png" />
+              <Image Name="huodaol22.png" />
+              <Image Name="huodaol23.png" />
+              <Image Name="huodaol24.png" />
+              <Image Name="huodaol25.png" />
+              <Image Name="huodaol26.png" />
+              <Image Name="huodaol27.png" />
+              <Image Name="huodaol28.png" />
+              <Image Name="huodaol29.png" />
+              <Image Name="huodaol30.png" />
+              <Image Name="huodaol31.png" />
+              <Image Name="huodaol32.png" />
+              <Image Name="huodaol33.png" />
+              <Image Name="huodaol34.png" />
+              <Image Name="huodaol35.png" />
+              <Image Name="huodaol36.png" />
+              <Image Name="huodaol37.png" />
+              <Image Name="huodaol38.png" />
+              <Image Name="huodaol39.png" />
+              <Image Name="huodaol40.png" />
+              <Image Name="huodaol41.png" />
+              <Image Name="huodaol42.png" />
+              <Image Name="huodaol43.png" />
+              <Image Name="huodaol44.png" />
+              <Image Name="huodaol45.png" />
+              <Image Name="huodaol46.png" />
+              <Image Name="huodaol47.png" />
+              <Image Name="huodaol48.png" />
+              <Image Name="huodaol49.png" />
+              <Image Name="huodaol50.png" />
+              <Image Name="huodaol51.png" />
+              <Image Name="huodaol52.png" />
+              <Image Name="huodaol53.png" />
+              <Image Name="huodaol54.png" />
+              <Image Name="huodaol55.png" />
+              <Image Name="huodaol56.png" />
+              <Image Name="huodaol57.png" />
+              <Image Name="huodaol58.png" />
+              <Image Name="huodaol59.png" />
+              <Image Name="huodaol60.png" />
+              <Image Name="huodaol61.png" />
+              <Image Name="huodaol62.png" />
+              <Image Name="huodaol63.png" />
+              <Image Name="huodaol64.png" />
+              <Image Name="huodaol65.png" />
+              <Image Name="huodaol66.png" />
+              <Image Name="huodaol67.png" />
+              <Image Name="huodaol68.png" />
+              <Image Name="huodaol69.png" />
+              <Image Name="huodaol70.png" />
+              <Image Name="huodaol71.png" />
+              <Image Name="huodaol72.png" />
+              <Image Name="huodaol73.png" />
+              <Image Name="huodaol74.png" />
+              <Image Name="huodaol75.png" />
+              <Image Name="huodaol76.png" />
+              <Image Name="huodaol77.png" />
+              <Image Name="huodaol78.png" />
+              <Image Name="huodaol79.png" />
+              <Image Name="huodaol80.png" />
+              <Image Name="huodaol81.png" />
+              <Image Name="huodaol82.png" />
+              <Image Name="huodaol83.png" />
+              <Image Name="huodaol84.png" />
+              <Image Name="huodaol85.png" />
+            </Folder>
+          </Folder>
+          <Image Name="logoui3.png" />
+          <Image Name="logoui6.png" />
+          <Image Name="logoui1.png" />
+          <Image Name="logoui2.png" />
+          <Image Name="logoui5.png" />
+          <Image Name="logoui4.png" />
+          <Image Name="z1.png" />
+          <Image Name="z2.png" />
+          <Image Name="z3.png" />
+        </Folder>
+        <Folder Name="PageView">
+          <Image Name="Panel1_1.jpg" />
+          <Image Name="Panel1_2.jpg" />
+          <Image Name="Panel1_3.jpg" />
+          <Image Name="Panel2_1.jpg" />
+          <Image Name="Panel2_2.jpg" />
+          <Image Name="Panel2_3.jpg" />
+          <Image Name="Seed1.png" />
+          <Image Name="beijing1.jpg" />
+          <Image Name="beijing2.jpg" />
+          <Image Name="Seed2.png" />
+          <Image Name="Seed3.png" />
+          <Image Name="beijing3.jpg" />
+        </Folder>
+        <Folder Name="Font">
+          <File Name="Fangzhen.ttf" />
+          <File Name="Yegen.ttf" />
+          <File Name="black.ttf" />
+        </Folder>
+        <Folder Name="monsters">
+          <Folder Name="1">
+            <Image Name="baize.png" />
+            <Image Name="bianfu.png" />
+            <Image Name="caomao.png" />
+            <Image Name="fenghuang.png" />
+            <Image Name="guiche.png" />
+            <Image Name="guihuo.png" />
+          </Folder>
+          <Folder Name="2">
+            <Image Name="haishe.png" />
+            <Image Name="jiangshi.png" />
+            <Image Name="jiujiu.png" />
+            <Image Name="mao.png" />
+            <Image Name="mianju.png" />
+            <Image Name="zongzi.png" />
+          </Folder>
+          <Folder Name="3">
+            <Image Name="mubei.png" />
+            <Image Name="shui.png" />
+            <Image Name="suanyu.png" />
+            <Image Name="xuanwu.png" />
+            <Image Name="yingzhao.png" />
+            <Image Name="youling.png" />
+          </Folder>
+        </Folder>
+        <Folder Name="goods">
+          <Folder Name="1">
+            <Image Name="1.png" />
+            <Image Name="2.png" />
+            <Image Name="3.png" />
+            <Image Name="4.png" />
+          </Folder>
+        </Folder>
+        <Project Name="Layer21.csd" Type="Layer" />
+        <Project Name="Layer71.csd" Type="Layer" />
+        <Project Name="Layer9.csd" Type="Layer" />
+        <Project Name="Layer60.csd" Type="Layer" />
+        <Project Name="Layer80.csd" />
+        <Project Name="Play.csd" Type="Layer" />
+        <Folder Name="LOADING">
+          <Image Name="loading0001.jpg" />
+          <Image Name="loading0002.jpg" />
+          <Image Name="loading0003.jpg" />
+          <Image Name="loading0004.jpg" />
+          <Image Name="loading0005.jpg" />
+          <Image Name="loading0006.jpg" />
+          <Image Name="loading0007.jpg" />
+          <Image Name="loading0008.jpg" />
+          <Image Name="loading0009.jpg" />
+          <Image Name="loading0010.jpg" />
+          <Image Name="loading0011.jpg" />
+          <Image Name="loading0012.jpg" />
+          <Image Name="loading0013.jpg" />
+          <Image Name="loading0014.jpg" />
+        </Folder>
+        <Image Name="fengmian_beijing1.jpg" />
+        <Folder Name="fengmian">
+          <Image Name="1_00000.png" />
+          <Image Name="1_00001.png" />
+          <Image Name="1_00002.png" />
+          <Image Name="1_00003.png" />
+          <Image Name="1_00004.png" />
+          <Image Name="1_00005.png" />
+          <Image Name="1_00006.png" />
+          <Image Name="1_00007.png" />
+          <Image Name="1_00008.png" />
+          <Image Name="1_00009.png" />
+          <Image Name="1_00010.png" />
+          <Image Name="1_00011.png" />
+          <Image Name="1_00012.png" />
+          <Image Name="1_00013.png" />
+          <Image Name="1_00014.png" />
+          <Image Name="1_00015.png" />
+          <Image Name="1_00016.png" />
+          <Image Name="1_00017.png" />
+          <Image Name="1_00018.png" />
+          <Image Name="1_00019.png" />
+          <Image Name="1_00020.png" />
+          <Image Name="1_00021.png" />
+          <Image Name="1_00022.png" />
+          <Image Name="1_00023.png" />
+          <Image Name="1_00024.png" />
+          <Image Name="1_00025.png" />
+          <Image Name="1_00026.png" />
+          <Image Name="1_00027.png" />
+          <Image Name="1_00028.png" />
+          <Image Name="1_00029.png" />
+          <Image Name="1_00030.png" />
+          <Image Name="1_00031.png" />
+          <Image Name="1_00032.png" />
+          <Image Name="1_00033.png" />
+          <Image Name="1_00034.png" />
+          <Image Name="1_00035.png" />
+          <Image Name="1_00036.png" />
+          <Image Name="1_00037.png" />
+          <Image Name="1_00038.png" />
+          <Image Name="1_00039.png" />
+          <Image Name="1_00040.png" />
+          <Image Name="1_00041.png" />
+          <Image Name="1_00042.png" />
+          <Image Name="1_00043.png" />
+          <Image Name="1_00044.png" />
+          <Image Name="1_00045.png" />
+          <Image Name="1_00046.png" />
+          <Image Name="1_00047.png" />
+          <Image Name="1_00048.png" />
+          <Image Name="1_00049.png" />
+          <Image Name="1_00050.png" />
+          <Image Name="1_00051.png" />
+          <Image Name="1_00052.png" />
+          <Image Name="1_00053.png" />
+          <Image Name="1_00054.png" />
+          <Image Name="1_00055.png" />
+          <Image Name="1_00056.png" />
+          <Image Name="1_00057.png" />
+          <Image Name="1_00058.png" />
+          <Image Name="1_00059.png" />
+          <Image Name="1_00060.png" />
+          <Image Name="1_00061.png" />
+          <Image Name="1_00062.png" />
+          <Image Name="1_00063.png" />
+          <Image Name="1_00064.png" />
+          <Image Name="1_00065.png" />
+          <Image Name="1_00066.png" />
+          <Image Name="1_00067.png" />
+          <Image Name="1_00068.png" />
+          <Image Name="1_00069.png" />
+          <Image Name="1_00070.png" />
+          <Image Name="1_00071.png" />
+          <Image Name="1_00072.png" />
+          <Image Name="1_00073.png" />
+          <Image Name="1_00074.png" />
+          <Image Name="1_00075.png" />
+          <Image Name="1_00076.png" />
+          <Image Name="1_00077.png" />
+          <Image Name="1_00078.png" />
+          <Image Name="1_00079.png" />
+          <Image Name="1_00080.png" />
+          <Image Name="1_00081.png" />
+          <Image Name="1_00082.png" />
+          <Image Name="1_00083.png" />
+          <Image Name="1_00084.png" />
+          <Image Name="1_00085.png" />
+          <Image Name="1_00086.png" />
+          <Image Name="1_00087.png" />
+          <Image Name="1_00088.png" />
+          <Image Name="1_00089.png" />
+          <Image Name="1_00090.png" />
+          <Image Name="1_00091.png" />
+          <Image Name="1_00092.png" />
+          <Image Name="1_00093.png" />
+          <Image Name="1_00094.png" />
+          <Image Name="1_00095.png" />
+          <Image Name="1_00096.png" />
+          <Image Name="1_00097.png" />
+          <Image Name="1_00098.png" />
+          <Image Name="1_00099.png" />
+          <Image Name="1_00100.png" />
+          <Image Name="1_00101.png" />
+          <Image Name="1_00102.png" />
+          <Image Name="1_00103.png" />
+          <Image Name="1_00104.png" />
+          <Image Name="1_00105.png" />
+          <Image Name="1_00106.png" />
+          <Image Name="1_00107.png" />
+          <Image Name="1_00108.png" />
+          <Image Name="1_00109.png" />
+          <Image Name="1_00110.png" />
+          <Image Name="1_00111.png" />
+          <Image Name="1_00112.png" />
+          <Image Name="1_00113.png" />
+          <Image Name="1_00114.png" />
+          <Image Name="1_00115.png" />
+          <Image Name="1_00116.png" />
+          <Image Name="1_00117.png" />
+          <Image Name="1_00118.png" />
+          <Image Name="1_00119.png" />
+          <Image Name="1_00120.png" />
+          <Image Name="1_00121.png" />
+          <Image Name="1_00122.png" />
+          <Image Name="1_00123.png" />
+          <Image Name="1_00124.png" />
+          <Image Name="1_00125.png" />
+          <Image Name="1_00126.png" />
+          <Image Name="1_00127.png" />
+          <Image Name="1_00128.png" />
+          <Image Name="1_00129.png" />
+          <Image Name="1_00130.png" />
+          <Image Name="1_00131.png" />
+          <Image Name="1_00132.png" />
+          <Image Name="1_00133.png" />
+          <Image Name="1_00134.png" />
+          <Image Name="1_00135.png" />
+          <Image Name="1_00136.png" />
+          <Image Name="1_00137.png" />
+          <Image Name="1_00138.png" />
+          <Image Name="1_00139.png" />
+          <Image Name="1_00140.png" />
+          <Image Name="1_00141.png" />
+          <Image Name="1_00142.png" />
+          <Image Name="1_00143.png" />
+          <Image Name="1_00144.png" />
+          <Image Name="1_00145.png" />
+          <Image Name="1_00146.png" />
+          <Image Name="1_00147.png" />
+          <Image Name="1_00148.png" />
+          <Image Name="1_00149.png" />
+          <Image Name="1_00150.png" />
+          <Image Name="1_00151.png" />
+          <Image Name="1_00152.png" />
+          <Image Name="1_00153.png" />
+          <Image Name="1_00154.png" />
+          <Image Name="1_00155.png" />
+          <Image Name="1_00156.png" />
+          <Image Name="1_00157.png" />
+          <Image Name="1_00158.png" />
+          <Image Name="1_00159.png" />
+          <Image Name="1_00160.png" />
+          <Image Name="1_00161.png" />
+          <Image Name="1_00162.png" />
+          <Image Name="1_00163.png" />
+          <Image Name="1_00164.png" />
+          <Image Name="1_00165.png" />
+          <Image Name="1_00166.png" />
+          <Image Name="1_00167.png" />
+          <Image Name="1_00168.png" />
+          <Image Name="1_00169.png" />
+          <Image Name="1_00170.png" />
+          <Image Name="1_00171.png" />
+          <Image Name="1_00172.png" />
+          <Image Name="1_00173.png" />
+          <Image Name="1_00174.png" />
+          <Image Name="1_00175.png" />
+          <Image Name="1_00176.png" />
+          <Image Name="1_00177.png" />
+          <Image Name="1_00178.png" />
+          <Image Name="1_00179.png" />
+          <Image Name="1_00180.png" />
+          <Image Name="1_00181.png" />
+          <Image Name="1_00182.png" />
+          <Image Name="1_00183.png" />
+          <Image Name="1_00184.png" />
+          <Image Name="1_00185.png" />
+          <Image Name="1_00186.png" />
+          <Image Name="1_00187.png" />
+          <Image Name="1_00188.png" />
+          <Image Name="1_00189.png" />
+          <Image Name="1_00190.png" />
+          <Image Name="1_00191.png" />
+          <Image Name="1_00192.png" />
+          <Image Name="1_00193.png" />
+          <Image Name="1_00194.png" />
+          <Image Name="1_00195.png" />
+          <Image Name="1_00196.png" />
+          <Image Name="1_00197.png" />
+          <Image Name="1_00198.png" />
+          <Image Name="1_00199.png" />
+        </Folder>
+        <Project Name="Layer30.csd" />
+      </RootFolder>
+    </Group>
+  </SolutionFolder>
+</Solution>
